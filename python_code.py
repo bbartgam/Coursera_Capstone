@@ -1,2 +1,4 @@
-print ('hello Lexi and Fatou")
+import numpy as np
+import pandas as pd
+print ('hello capstone course")
 
